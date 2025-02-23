@@ -1,8 +1,10 @@
 # TodoAppPlain
 
+![TodoAppPlain Screenshot](todos.png)
+
 This is my simple web application built with JSP+Servlet, JDBC, SQL, and a few other technologies. It’s designed to showcase how to create, display, and add items to a Todo list using a basic MVC pattern with Servlets and JSP, with data stored in a MySQL database. I built this project with Maven and deployed it as a WAR file to Apache Tomcat.
 
-## What It Does
+## What this Does
 
 - **Add Todos:** Users can fill out a form to add new todo items.
 - **View Todos:** A list of all todo items is displayed.
@@ -15,8 +17,8 @@ This is my simple web application built with JSP+Servlet, JDBC, SQL, and a few o
 - **Maven:** Required to build the project.
 - **Apache Tomcat:** Tomcat 9 (or a compatible version) for deploying the WAR.
 - **MySQL:** MySQL 8 (or compatible) running with:
-    - A database named `tododb`
-    - A user `todo_user` with password `MyStrongPassword` (or update as needed)
+  - A database named `tododb`
+  - A user `todo_user` with password `MyStrongPassword` (or update as needed)
 
 ## Setup Instructions
 
