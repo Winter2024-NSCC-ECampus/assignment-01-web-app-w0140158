@@ -1,6 +1,6 @@
 # TodoApp
 
-![TodoApp](./todos.png)
+
 
 This is my simple web application built with JSP+Servlet, JDBC, SQL, and a few other technologies. It’s designed to showcase how to create, display, and add items to a Todo list using a basic MVC pattern with Servlets and JSP, with data stored in a MySQL database. I built this project with Maven and deployed it as a WAR file to Apache Tomcat.
 
